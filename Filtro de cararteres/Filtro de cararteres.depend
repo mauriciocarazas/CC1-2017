@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505227135 source:c:\users\tony\documents\github\c-\filtro de cararteres\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+
