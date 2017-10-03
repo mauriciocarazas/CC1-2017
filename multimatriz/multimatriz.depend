@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507007144 source:c:\users\tony\documents\github\c-\multimatriz\main.cpp
+	<iostream>
+	<stdlib.h>
+
