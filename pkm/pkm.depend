@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511454566 source:d:\pkm\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"fantasma.h"
+
+1511454692 d:\pkm\include\fantasma.h
+	<stdlib.h>
+
