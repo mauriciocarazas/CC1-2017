@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512052092 source:c:\users\tony\desktop\pacman 2.0\final\main.cpp
+	<allegro.h>
+	<cstdlib>
+
+1517925745 source:c:\users\tony\desktop\final\main.cpp
+	<allegro.h>
+	<cstdlib>
+
